@@ -144,6 +144,20 @@ A horizontal bar chart was created to show **predicted goals per team**, making 
 
 ---
 
+## 📂 Project Structure
+
+```
+FIFA-World-Cup-Team-Performance-Prediction
+│
+├── data
+│   └── team_data_data.csv
+│
+├── notebooks
+│   └── FIFA World Cup Team Performance Prediction.ipynb
+│
+└── README.md
+```
+
 ## 💡 Future Improvements
 
 * Add more data (multiple tournaments/seasons)
